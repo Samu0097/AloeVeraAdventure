@@ -1,0 +1,4 @@
+repository "AloeVeraAdventure@Meierdev@cloud"
+  path "/"
+    br "/main"
+    co "/main"
